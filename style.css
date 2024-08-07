@@ -1,0 +1,14 @@
+.topnav{
+    background-color: rgb(0, 0, 0);
+    /* height: 100px; */
+}
+.crl2{
+    padding: 20px;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+}
+.cr{
+    animation-name: im;
+    animation-duration: 2s;
+}
