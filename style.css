@@ -3,10 +3,14 @@
     /* height: 100px; */
 }
 .crl2{
-    padding: 20px;
+
+    padding: 10px;
     display: flex;
-    /* justify-content: center; */
     justify-content: space-evenly;
+   /* margin-left: 10px; */
+   /* margin-right: 10px; */
+
+
 }
 .cr{
     animation-name: im;
