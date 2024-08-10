@@ -7,12 +7,26 @@
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
-   /* margin-left: 10px; */
-   /* margin-right: 10px; */
+   background-color: rgba(0, 0, 0, 0.904);
 
 
 }
 .cr{
     animation-name: im;
     animation-duration: 2s;
+}
+/* #cd{
+    position: relative;
+
+}
+#cd img{
+    border: 5px solid blue;
+    height: 500px;
+    width: 500px;
+    padding: 30px;
+    
+} */
+.dv1{
+    background-color: black;
+    padding-top: 30px;
 }
