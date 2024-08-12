@@ -26,7 +26,51 @@
     padding: 30px;
     
 } */
+
 .dv1{
     background-color: black;
     padding-top: 30px;
+}
+.scrollhd{
+    color: white;
+    position:absolute;
+    top: 25%;
+    left: 47%;
+    font-size: 2.9vw;
+}
+.scrolldef{
+    color:white;
+    position:absolute;
+    top: 45%;
+    left: 47%;
+    font-size: 1.5vw;
+}
+.readmore{
+    position: absolute;
+    top: 55%;
+    left: 47%;
+}
+.readmorebtn{
+    font-size: 1.5vw;
+    padding: 6px 10px;
+    border-style: solid;
+    border-color: #08c485;
+    color: black;
+    border-width: 1px;
+    border-radius: 9px;
+    text-decoration: none;
+    background-color: #08c485;
+}
+.readmorebtn:hover{
+    background-color: #47d4a5;
+}
+#main{
+    padding-bottom: 80px;
+}
+.a1 {
+ text-decoration: none;
+ color: white;
+ text-wrap: nowrap;
+ font-size: 20px;
+
 }
