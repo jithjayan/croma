@@ -4,17 +4,14 @@
 }
 .crl2{
 
-    padding: 10px;
+    /* padding: 10px; */
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
    background-color: rgba(0, 0, 0, 0.904);
 
 
 }
-.cr{
-    animation-name: im;
-    animation-duration: 2s;
-}
+
 /* #cd{
     position: relative;
 
